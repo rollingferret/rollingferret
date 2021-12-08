@@ -1,8 +1,8 @@
 ### Hi there 👋
-### Hello! My name is Peter!
+### My name is Peter and I like coding!
 
-- 🔭 I’m currently working on the Eth Speed Run using Eth-Scaffold.
-- 🌱 I’m currently leveling up my Python and JavaScript skills.
+- 🔭 I’m currently working on the Eth Speed Run using Eth-Scaffold and Solidity.
+- 🌱 I’m currently leveling up my Python, JavaScript and DSA skills.
 - 🌱 I’m currently learning ML/TensorFlow and working towards an OSCP cert.
 - 👯 I’m looking to collaborate on any interesting projects.
 - 🤔 I’m looking for help with finding a dev job!
