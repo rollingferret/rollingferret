@@ -1,4 +1,14 @@
 ### Hi there 👋
+### Hello! My name is Peter!
+
+- 🔭 I’m currently working on the Eth Speed Run using Eth-Scaffold.
+- 🌱 I’m currently leveling up my Python and JavaScript skills.
+- 🌱 I’m currently learning ML/TensorFlow and working towards an OSCP cert.
+- 👯 I’m looking to collaborate on any interesting projects.
+- 🤔 I’m looking for help with finding a dev job!
+- 💬 Ask me about anything!
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peter-joh-03b69a1a1/)
+- ⚡ Fun fact: I have 3 dogs and 1 cat. The cat adopted me.
 
 <!--
 **rollingferret/rollingferret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
