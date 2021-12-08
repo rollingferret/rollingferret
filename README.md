@@ -10,6 +10,9 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peter-joh-03b69a1a1/)
 - ⚡ Fun fact: I have 3 dogs and 1 cat. The cat adopted me.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rollingferret/rollingferret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
