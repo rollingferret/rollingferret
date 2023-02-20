@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with finding a dev job!
 - 💬 Ask me about anything! My interests range from Subarus to Dota! 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peter-joh-03b69a1a1/)
-- ⚡ Fun fact: I have 3 dogs and 1 cat. The cat adopted me.
+- ⚡ Fun fact: I have a dog and cat. The cat adopted me.
 
 <br>
 
